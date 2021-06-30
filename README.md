@@ -9,3 +9,6 @@
 
 * #### [ARCarpetViewer](https://github.com/DanMillerDev/ARCarpetViewer)
     small app for using plane tracking to visualize carpet samples in mobile AR
+
+* #### [ARRaycastHit NOT having a trackableId](https://answers.unity.com/questions/1713027/arsubsystems-trackableid-of-a-plane-that-is-hit-re.html?sort=votes)
+    TrackableType.PlaneEstimated may NOT have a trackableId.

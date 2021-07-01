@@ -12,3 +12,7 @@
 
 * #### [ARRaycastHit NOT having a trackableId](https://answers.unity.com/questions/1713027/arsubsystems-trackableid-of-a-plane-that-is-hit-re.html?sort=votes)
     TrackableType.PlaneEstimated may NOT have a trackableId.
+
+* #### [Unity AR Samples](https://github.com/Unity-Technologies/arfoundation-samples)
+
+* #### [Unity AR Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html#scene-setup)
